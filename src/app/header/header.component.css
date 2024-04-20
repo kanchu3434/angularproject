@@ -1,0 +1,10 @@
+div {
+    border: solid 1px black;
+    padding: 30px;
+    text-align: center;
+
+}
+div a {
+    margin-right: 20px;
+    font-size: 40px;
+}
